@@ -79,7 +79,7 @@ img {
 .bg-image nav.active {
   background: #fff;
   color: #000;
-  z-index: 9999;
+  z-index: 999999;
   
 }
 
